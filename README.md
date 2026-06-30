@@ -6,3 +6,6 @@ https://roadmap.sh/projects/single-page-cv
 
 ## 2. Basic-Website
 https://roadmap.sh/projects/basic-html-website
+
+## 3. Pricing
+https://github.com/Nawdir95/Balaheba/tree/main/pricing
