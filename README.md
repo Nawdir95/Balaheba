@@ -8,4 +8,4 @@ https://roadmap.sh/projects/single-page-cv
 https://roadmap.sh/projects/basic-html-website
 
 ## 3. Pricing
-https://github.com/Nawdir95/Balaheba/tree/main/pricing
+https://roadmap.sh/projects/pricing-comparison-table
